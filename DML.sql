@@ -19,4 +19,13 @@ INSERT INTO horske_chaty
 VALUES
     (1, 'Chata pod Rysmi', 'Vysoké Tatry', 2250),
     (2, 'Téryho chata', 'Vysoké Tatry', 2015),
-    (3, 'Zamkovského chata', 'Vysoké Tatry', 1475);
+    (3, 'Zamkovského chata', 'Vysoké Tatry', 1475),
+    (4, 'Zbojnícka chata', 'Vysoké Tatry', 1960),
+    (5, 'Skalnatá chata', 'Vysoké Tatry', 1751),
+    (6, 'Sliezsky dom', 'Vysoké Tatry', 1670),
+    (7, 'Chata pri Zelenom plese', 'Vysoké Tatry', 1551),
+    (8, 'Rainerova útulňa', 'Vysoké Tatry', 1301),
+    (9, 'Bilíkova chata', 'Vysoké Tatry', 1255),
+    (10, 'Chata Plesnivec', 'Belianske Tatry', 1290);
+
+
